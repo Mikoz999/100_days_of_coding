@@ -1,3 +1,6 @@
+/* DAY 3 OF MY 100 DAYS OF CODDING CHALLENGE */
+/*DAY 3: program that calculates the hypotenuse of a right angle triangle*/
+
 #include <stdio.h>
 #include <math.h>
 
